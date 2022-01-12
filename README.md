@@ -1,18 +1,29 @@
-### Hi there 👋
+## Hello! I'm Andrew. 👋
 
-I'm learning Python. Lots to come!
+If you're looking for a Junior Python Developer who's eager to learn and become amazing at this code thing, you can find me on [LinkedIn](https://www.linkedin.com/in/andrewtclarkson/).
 
-<!--
-**TallSoup/TallSoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently nearing completion of _The App Brewery's_ **100 Days of Python**.
 
-Here are some ideas to get you started:
+Along the way I've learned:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- OOP
+- Pandas
+- Tkinter
+- Calling APIs
+- Creating RESTful APIs
+- Webscraping with Beautiful Soup
+- Automation with Selenium
+- Flask
+- HTML
+- CSS
+- Bootstrap
+- WTForms
+- SQLAlchemy
+- SQLite
+- Encryption, Hashing, Salting
+- Heroku
+- Discord.py
+
+
+I love crypto, and am looking forward to learning a Web3 Language and building on the Blockchain.
