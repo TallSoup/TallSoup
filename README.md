@@ -1,8 +1,10 @@
 ## Hello! I'm Andrew. 👋
 
-If you're looking for a Junior Python Developer who's eager to learn and become amazing at this code thing, you can find me on [LinkedIn](https://www.linkedin.com/in/andrewtclarkson/).
+Ypu can find me on [LinkedIn](https://www.linkedin.com/in/andrewtclarkson/).
 
-I'm currently nearing completion of _The App Brewery's_ **100 Days of Python**.
+I have completed _The App Brewery's_ **100 Days of Python** and am now working through their **Complete Web Dev Course**
+
+Python and JavaScript
 
 Along the way I've learned:
 
@@ -26,4 +28,4 @@ Along the way I've learned:
 - Discord.py
 
 
-I love crypto, and am looking forward to learning a Web3 Language and building on the Blockchain.
+I love crypto, and am looking forward to learning a Web3 Language and building on Blockchain.
