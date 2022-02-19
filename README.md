@@ -26,6 +26,3 @@ Along the way I've learned:
 - Encryption, Hashing, Salting
 - Heroku
 - Discord.py
-
-
-I love crypto, and am looking forward to learning a Web3 Language and building on Blockchain.
