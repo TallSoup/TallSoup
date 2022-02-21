@@ -2,12 +2,12 @@
 
 Ypu can find me on [LinkedIn](https://www.linkedin.com/in/andrewtclarkson/).
 
-I have completed _The App Brewery's_ **100 Days of Python** and am now working through their **Complete Web Dev Course** (JavaScript/jQuery/React/Node)
+I have completed _The App Brewery's_ **100 Days of Python** 
+I am now working through their **Complete Web Dev Course** (JavaScript/jQuery/React/Node)
 
-Python and JavaScript
+**Languages: Python and JavaScript**
 
 Along the way I've learned:
-
 
 - OOP
 - Pandas
