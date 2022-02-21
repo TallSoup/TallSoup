@@ -10,10 +10,6 @@ I am now working through their **Complete Web Dev Course** (JavaScript/jQuery/Re
 Along the way I've learned:
 
 - OOP
-- Pandas
-- Tkinter
-- Calling APIs
-- Creating RESTful APIs
 - Webscraping with Beautiful Soup
 - Automation with Selenium
 - Flask
@@ -26,3 +22,6 @@ Along the way I've learned:
 - Encryption, Hashing, Salting
 - Heroku
 - Discord.py
+- Pandas
+- Calling APIs
+- Creating RESTful APIs
