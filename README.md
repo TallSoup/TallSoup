@@ -7,8 +7,6 @@ I am now working through their **Complete Web Dev Course** (JavaScript/jQuery/Re
 
 **Languages: Python and JavaScript**
 
-Along the way I've learned:
-
 - OOP
 - Webscraping with Beautiful Soup
 - Automation with Selenium
