@@ -1,6 +1,6 @@
 ## Hello! I'm Andrew. 👋
 
-[LinkedIn](https://www.linkedin.com/in/andrewtclarkson/).
+[LinkedIn](https://www.linkedin.com/in/andrewtclarkson/)
 
 I have completed _The App Brewery's_ **100 Days of Python** 
 I am now working through their **Complete Web Dev Course** (JavaScript/jQuery/React/Node)
