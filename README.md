@@ -1,25 +1,17 @@
-## Hello! I'm Andrew. 👋
+## Hi, I'm Andrew, a Fullstack JavaScript and Python Developer
 
-[LinkedIn](https://www.linkedin.com/in/andrewtclarkson/)
+### I’m currently working on:
+- [Auction App (MERN Full Stack )](https://react-auction-app.herokuapp.com/)
 
-I have completed _The App Brewery's_ **100 Days of Python** 
-I am now working through their **Complete Web Dev Course** (JavaScript/jQuery/React/Node)
+### All of my projects are available here at [GitHub](https://github.com/TallSoup)  (New portfolio site coming soon!)
 
-**Languages: Python and JavaScript**
+### Connect with me on [LinkedIn](https://linkedin.com/in/andrewtclarkson), I'm pretty active over there too.
 
-- OOP
-- Webscraping with Beautiful Soup
-- Automation with Selenium
-- Flask
-- HTML
-- CSS
-- Bootstrap
-- WTForms
-- SQLAlchemy
-- SQLite
-- Encryption, Hashing, Salting
-- Heroku
-- Discord.py
-- Pandas
-- Calling APIs
-- Creating RESTful APIs
+***
+### I have completed _The App Brewery's_:
+
+**The Complete 2022 Web Development Bootcamp**  (JavaScript/MERN Stack/jQuery)
+
+and 
+
+**100 Days of Python**
