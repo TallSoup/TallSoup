@@ -10,8 +10,8 @@
 ***
 ### I have completed _The App Brewery's_:
 
-**The Complete 2022 Web Development Bootcamp**  (JavaScript/MERN Stack/jQuery)
+[**The Complete 2022 Web Development Bootcamp**  (JavaScript/MERN Stack/jQuery)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 and 
 
-**100 Days of Python**
+[**100 Days of Python**](https://www.udemy.com/course/100-days-of-code/)
