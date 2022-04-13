@@ -1,7 +1,7 @@
 ## Hi, I'm Andrew, a Fullstack JavaScript and Python Developer
 
 ### I’m currently working on:
-- [Auction App (MERN Full Stack )](https://react-auction-app.herokuapp.com/)
+- [Auction App (MERN Full Stack)](https://react-auction-app.herokuapp.com/)
 
 ### All of my projects are available here at [GitHub](https://github.com/TallSoup)  (New portfolio site coming soon!)
 
