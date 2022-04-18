@@ -3,6 +3,9 @@
 ### I’m currently working on:
 - [Auction App (MERN Full Stack)](https://react-auction-app.herokuapp.com/)
 
+### I'm currently contributing to:
+- [Resume Equalizer](https://github.com/Pythonidaer/resume_equalizer)
+
 ### All of my projects are available here at [GitHub](https://github.com/TallSoup)  (New portfolio site coming soon!)
 
 ### Connect with me on [LinkedIn](https://linkedin.com/in/andrewtclarkson), I'm pretty active over there too.
