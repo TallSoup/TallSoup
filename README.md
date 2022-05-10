@@ -2,13 +2,17 @@
 
 ### I’m currently working on:
 - [Auction App (MERN Full Stack)](https://react-auction-app.herokuapp.com/)
+- [Hatchways Project Assessment](https://www.hatchways.io/developers)
 
 ### I'm currently contributing to:
 - [Resume Equalizer](https://github.com/Pythonidaer/resume_equalizer)
 
-### All of my projects are available here at [GitHub](https://github.com/TallSoup)  (New portfolio site coming soon!)
+### I'm learning:
+- [Data Structures and Algos](https://github.com/TallSoup/DSA-Practice-and-Leetcode)
 
-### Connect with me on [LinkedIn](https://linkedin.com/in/andrewtclarkson), I'm pretty active over there too.
+### All of my projects are available here at [GitHub](https://github.com/TallSoup)
+
+### Connect with me on [LinkedIn](https://linkedin.com/in/andrewtclarkson), I'm pretty active over there.
 
 ***
 ### I have completed _The App Brewery's_:
