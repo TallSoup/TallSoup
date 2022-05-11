@@ -1,14 +1,16 @@
 ## Hi, I'm Andrew, a Fullstack JavaScript and Python Developer
 
-### I’m currently working on:
+### I’m working on:
 - [Auction App (MERN Full Stack)](https://react-auction-app.herokuapp.com/)
 - [Hatchways Project Assessment](https://www.hatchways.io/developers)
 
-### I'm currently contributing to:
-- [Resume Equalizer](https://github.com/Pythonidaer/resume_equalizer)
+### I'm contributing to:
+- [easyMERN - Templating MERN stack for rapid deployment ](https://github.com/easymern)
+- [Resume Equalizer - NLTK app to parse relevant words from job descriptions](https://github.com/Pythonidaer/resume_equalizer)
 
 ### I'm learning:
 - [Data Structures and Algos](https://github.com/TallSoup/DSA-Practice-and-Leetcode)
+- Jest and Cypress testing libraries
 
 ### All of my projects are available here at [GitHub](https://github.com/TallSoup)
 
@@ -22,3 +24,7 @@
 and 
 
 [**100 Days of Python**](https://www.udemy.com/course/100-days-of-code/)
+
+***
+
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=TallSoup&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
