@@ -2,7 +2,7 @@
 
 ### I’m working on:
 - [Auction App (MERN Full Stack)](https://react-auction-app.herokuapp.com/)
-- [Hatchways Project Assessment](https://www.hatchways.io/developers)
+- [What's For Dinner](https://effulgent-bunny-bbabbb.netlify.app/)
 
 ### I'm contributing to:
 - [easyMERN - Templating MERN stack for rapid deployment ](https://github.com/easymern)
@@ -11,6 +11,8 @@
 ### I'm learning:
 - [Data Structures and Algos](https://github.com/TallSoup/DSA-Practice-and-Leetcode)
 - Jest and Cypress testing libraries
+- More React
+- Web3
 
 ### All of my projects are available here at [GitHub](https://github.com/TallSoup)
 
