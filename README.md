@@ -2,7 +2,7 @@
 
 ### I’m working on:
 - [Auction App (MERN Full Stack)](https://react-auction-app.herokuapp.com/)
-- [What's For Dinner](https://effulgent-bunny-bbabbb.netlify.app/)
+- [What's For Dinner (React)](https://effulgent-bunny-bbabbb.netlify.app/)
 
 ### I'm contributing to:
 - [easyMERN - Templating MERN stack for rapid deployment ](https://github.com/easymern)
