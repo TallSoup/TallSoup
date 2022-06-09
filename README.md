@@ -2,19 +2,21 @@
 
 ### [See my Portfolio here](https://andrew-clarkson.netlify.app/)
 
-
-### I’m working on:
+### Recent Projects:
 - [Auction App (MERN Full Stack)](https://react-auction-app.herokuapp.com/)
 - [What's For Dinner (React)](https://effulgent-bunny-bbabbb.netlify.app/)
 
-### I'm contributing to:
+### I'm currently contributing to:
 - [FirstJobs.dev](https://github.com/Naismith/firstjobs.dev)
+
+### Projects I've collaborated on in the past:
+- [easyMERN - Templating MERN stack for rapid deployment ](https://github.com/easymern)
 - [Resume Equalizer - NLTK app to parse relevant words from job descriptions](https://github.com/Pythonidaer/resume_equalizer)
 
 ### I'm learning:
-- [Data Structures and Algos](https://github.com/TallSoup/DSA-Practice-and-Leetcode)
-- Jest and Cypress testing libraries
 - More React
+- Rails
+- Jest and Cypress testing libraries
 - Web3
 
 ### All of my projects are available here at [GitHub](https://github.com/TallSoup)
