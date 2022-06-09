@@ -8,6 +8,7 @@
 - [What's For Dinner (React)](https://effulgent-bunny-bbabbb.netlify.app/)
 
 ### I'm contributing to:
+- https://github.com/Naismith/firstjobs.dev
 - [easyMERN - Templating MERN stack for rapid deployment ](https://github.com/easymern)
 - [Resume Equalizer - NLTK app to parse relevant words from job descriptions](https://github.com/Pythonidaer/resume_equalizer)
 
