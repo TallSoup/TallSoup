@@ -16,7 +16,7 @@
 ### I'm learning:
 - More React
 - Rails
-- Jest and Cypress testing libraries
+- Jest, React, and Cypress testing libraries
 - Web3
 
 ### All of my projects are available here at [GitHub](https://github.com/TallSoup)
