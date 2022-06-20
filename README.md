@@ -5,7 +5,7 @@
 ### Recent Projects:
 - [Auction App (MERN Full Stack)](https://react-auction-app.herokuapp.com/)
 - [What's For Dinner (React)](https://effulgent-bunny-bbabbb.netlify.app/)
-- [Don't Forget! (React with Testing)](https://github.com/TallSoup/todo-with-tests)
+- [Don't Forget! (React with Testing)]([https://github.com/TallSoup/todo-with-tests](https://dontforgettodo.netlify.app/)
 
 ### I'm currently contributing to:
 - [FirstJobs.dev](https://github.com/Naismith/firstjobs.dev)
