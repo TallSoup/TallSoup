@@ -18,7 +18,6 @@
 - More React
 - Rails
 - Jest, React, and Cypress testing libraries
-- Web3
 
 ### All of my projects are available here at [GitHub](https://github.com/TallSoup)
 
